@@ -7,9 +7,6 @@ Added:
 
 Adding 1v1.lol and justfall.lol very soon. 
 
+### v0.1 will be released 5/22/24
 
-
-
-
-
-###### note: this project is being updated almost every day
+###### Note: this project is being updated almost every day. 
