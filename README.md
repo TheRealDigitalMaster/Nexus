@@ -1,6 +1,11 @@
 # Welcome to the Nexus project
 ## Changelog (v0.1)
-Added Google, Notepad and Minecraft. Adding 1v1.lol and justfall.lol very soon. 
+Added:
+- Google search (requires internet)
+- Notepad
+- Minecraft
+
+Adding 1v1.lol and justfall.lol very soon. 
 
 
 
