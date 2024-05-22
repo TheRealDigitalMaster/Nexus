@@ -1,5 +1,5 @@
 # Welcome to the Nexus project
-## Changelog (v0.1)
+## Changelog (v0.05)
 Added:
 - Google search (requires internet)
 - Notepad
