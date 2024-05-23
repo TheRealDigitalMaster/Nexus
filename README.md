@@ -1,12 +1,10 @@
 # Welcome to the Nexus project
-## Changelog (v0.05)
+## Changelog (v0.1)
 Added:
-- Google search (requires internet)
-- Notepad
-- Minecraft
+- 1v1.lol
+- Justfall.lol
 
-Adding 1v1.lol and justfall.lol very soon. 
 
-### v0.1 will be released 5/23/2024
+### v0.2 will be released soon.
 
 ###### Note: this project is being updated almost every day. 
