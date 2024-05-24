@@ -1,8 +1,7 @@
 # Welcome to the Nexus project
-## Changelog (v0.1)
+## Changelog (v0.15)
 Added:
-- 1v1.lol
-- Justfall.lol
+- Blockbench
 
 
 ### v0.2 will be released soon.
