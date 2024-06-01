@@ -6,4 +6,4 @@ Added:
 
 ### v0.2 will be released soon.
 
-###### Note: this project is being updated almost every day. 
+###### Note: this project is being updated often.
