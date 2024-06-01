@@ -1,9 +1,9 @@
 # Welcome to the Nexus project
-## Changelog (v0.15)
+## Changelog (v0.2)
 Added:
-- Blockbench
+- JS Console
 
 
-### v0.2 will be released soon.
+### v0.25 will be released soon.
 
 ###### Note: this project is being updated often.
