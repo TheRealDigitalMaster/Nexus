@@ -1,9 +1,9 @@
 # Welcome to the Nexus project
-## Changelog (v0.2)
+## Changelog (v0.25)
 Added:
-- JS Console
+- about:blank cloak
 
 
-### v0.25 will be released soon.
+### v0.3 will be released soon.
 
 ###### Note: this project is being updated often.
